@@ -4,3 +4,10 @@ background-color: rgb(97, 165, 42);
 
 
 }
+body{
+    background-color: aquamarine;
+}
+p{
+    color: aqua;
+    background-color: bisque;
+}
